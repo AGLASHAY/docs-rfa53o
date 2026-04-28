@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hspd1f.assetshst.online/sitemap.xml
